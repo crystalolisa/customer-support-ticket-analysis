@@ -160,9 +160,9 @@ project_1/
 
 - [Post 4 — What the volume tells you](https://www.linkedin.com/posts/crystalolisa_operationsstrategy-startupoperations-systemsthinking-share-7452992569245855746-dpFP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgXgOAB6-IQ-dLYJzfVng23-TXTe93PA8A)
 - [Post 5 — What the description field is telling you](https://www.linkedin.com/posts/crystalolisa_operationsstrategy-startupoperations-systemsthinking-share-7451416338524405760-3Ax-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgXgOAB6-IQ-dLYJzfVng23-TXTe93PA8A)
-- [Post 6 — The Cancellation finding](link)
-- [Post 6b — The taxonomy trap](link)
-- [Post 7 — Resolution time does not predict satisfaction](link)
+- [Post 6 — The Cancellation finding](link) - coming April 30th
+- [Post 6b — The taxonomy trap](link) - coming May 5th
+- [Post 7 — Resolution time does not predict satisfaction](link) - coming May 7th
 
 ---
 
