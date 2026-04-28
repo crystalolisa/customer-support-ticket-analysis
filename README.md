@@ -29,7 +29,7 @@ Note on the synthetic structure: the near-uniform volume distribution across all
 
 Cancellation requests had the lowest volume in the closed subset (516 of 2,769) but the most disproportionate cost relative to that volume. Rank Shift measures the distance between where a category sits in the volume ranking and where it sits in the resolution time ranking. Positive means more expensive than volume predicts. Negative means more cost efficient.
 
-![Total Resolution Hours by Rank Shift](charts/chart_1_rank_shift.png)
+![Total Resolution Hours by Rank Shift](project_1/charts/chart_1_rank_shift.png)
 
 | Ticket Type | Count | Total Hours | Rank Shift |
 |---|---|---|---|
@@ -76,7 +76,7 @@ Correlation between resolution time and customer satisfaction: −0.0035. Functi
 | **6–12 hrs** | **414** | **3.126** |
 | 12–24 hrs | 320 | 2.975 |
 
-![Satisfaction correlation scatter plot](charts/chart_2_satisfaction_scatter.png)
+![Satisfaction correlation scatter plot](project_1/charts/chart_2_satisfaction_scatter.png)
 
 The 6–12 hour bucket scored highest. The fastest bucket scored lowest. Speed did not produce better outcomes. Satisfaction scores across all five categories span less than 0.1 points — resolution time is not moving that number.
 
